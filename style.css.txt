@@ -1,0 +1,32 @@
+body{
+  margin:0;
+  background:#e8f6ff;
+  font-family:Pretendard, sans-serif;
+}
+
+.container{
+  width:90%;
+  max-width:1200px;
+  margin:auto;
+  padding-top:40px;
+  text-align:center;
+}
+
+h1{
+  font-size:48px;
+  color:#0d4f6b;
+  margin-bottom:10px;
+}
+
+.subtitle{
+  color:#3f6d80;
+  margin-bottom:30px;
+  font-size:18px;
+}
+
+model-viewer{
+  background:white;
+  border-radius:20px;
+  overflow:hidden;
+  box-shadow:0 10px 30px rgba(0,0,0,0.15);
+}
