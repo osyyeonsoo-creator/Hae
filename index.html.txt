@@ -25,7 +25,6 @@
 
     <model-viewer
       src="https://raw.githubusercontent.com/osyyeonsoo-creator/Hae/main/stone%2Bcircular%2Bcafe%2B3d%2Bmodel.glb"
-
       alt="불턱 카페 3D 모델"
 
       auto-rotate
